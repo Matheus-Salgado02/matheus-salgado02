@@ -17,10 +17,10 @@
 </div>
 
 
-<a href="https://github.com/matheus-salgado02">
+<!--<a href="https://github.com/matheus-salgado02">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-salgado02&layout=compact&langs_count=7&theme=dracula" />
 
-
+</!-->
 
 <div>
   
