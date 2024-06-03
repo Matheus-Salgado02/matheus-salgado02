@@ -24,7 +24,7 @@
 
 <div>
   
-### My contacts
+### Talk with me
 <img loading="lazy" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" height=30 width=30/>  `matheus.salgado21341@gmail.com`
 
 <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-01-512.png" width=30 height=30/> `(51) 99187-6377`
